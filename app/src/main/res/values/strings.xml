@@ -2,5 +2,5 @@
     <string name="app_name">QuizApp</string>
 
     <!-- Hint this is for the header text-->
-    <string name="quiz_app">QuizApp</string>
+    <string name="quiz_app">Welcome to the quiz app</string>
 </resources>
